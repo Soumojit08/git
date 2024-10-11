@@ -1,4 +1,4 @@
-## Hello Git
+## Welcome to git || by soumojit
 
-- I'm adding this from `feature` branch
+- Yooo
 - This is 2nd `feature`
